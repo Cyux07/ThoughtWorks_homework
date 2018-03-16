@@ -15,6 +15,6 @@ jre安装
 ###启动方法
 直接使用编译器IDE`Run`Main.java文件并可选的在运行选项中键入参数
 在终端用javac命令编译所有文件
-用java命令启动Main.class
+用java命令启动Main: `java Main`
 默认解析根目录`raw.txt`文件，如需更改请在命令行后加上
-`java Main.class xxx.txt`请使用绝对路径，相对路径文件请放在根目录
+`java Main xxx.txt`请使用绝对路径，相对路径文件请放在根目录
